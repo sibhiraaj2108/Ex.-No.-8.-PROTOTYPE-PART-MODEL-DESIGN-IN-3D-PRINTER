@@ -46,8 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/b3b36c01-1e37-4c6d-93b7-035622671ad0)
-
+![Screenshot 2024-11-25 175944](https://github.com/user-attachments/assets/528aef6e-bfcc-484a-a9f0-3ffb514871eb)
 
 ### Name: sibhiraaj R
 ### Register Number: 24010177
